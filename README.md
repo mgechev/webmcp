@@ -271,6 +271,7 @@ _The agent notices the dresses page registers several tools:_
  *
  * size - optional - a number between 2 and 14 to filter the results by EU dress size
  * size - optional - a color from [Red, Blue, Green, Yellow, Black, White] to filter dresses by
+ */
 getDresses(size, color)
 
 /*
